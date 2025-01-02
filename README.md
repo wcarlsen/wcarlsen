@@ -17,4 +17,4 @@
 
 ## About me
 
-I am 35 years old and I work as a Senior Cloud Engineer at Veo Technologies. I live in Copenhagen with my family. My spare time is spend on family, friends, fishing, self hosting, skating, gaming, programming, Linux, the command line, Open-Source software, cloud computing/infrastructure, sailing and much more.
+I am 36 years old and I work as a Senior Cloud Engineer at Veo Technologies. I live in Copenhagen with my family. My spare time is spend on family, friends, fishing, self hosting, skating, gaming, programming, Linux, the command line, Open-Source software, cloud computing/infrastructure, sailing and much more.
